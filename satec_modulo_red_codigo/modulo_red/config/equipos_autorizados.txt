@@ -1,0 +1,5 @@
+# Equipos del laboratorio autorizados para pruebas de conectividad.
+# Una IPv4 o red CIDR por línea. Solo estas direcciones podrán ser probadas.
+# Ajuste según la red host-only de su máquina virtual.
+127.0.0.1
+192.168.56.0/24
