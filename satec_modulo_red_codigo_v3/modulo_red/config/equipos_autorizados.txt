@@ -1,8 +1,0 @@
-# LISTA BLANCA ESTRICTA: todo lo que no figure aquí se DENIEGA.
-# Una IPv4 por línea (equipos individuales; NO se admiten redes ni rangos como /24).
-# Solo IP privadas de laboratorio, máximo 32 equipos. Una línea inválida anula toda la lista.
-# De fábrica solo se autoriza el propio equipo.
-127.0.0.1
-
-# Para autorizar una máquina virtual, quite el '#' y escriba su IP exacta:
-# 192.168.56.101
